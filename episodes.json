@@ -1,0 +1,176 @@
+{
+  "title": "Very Bad Borges",
+  "description": "A collection of all Very Bad Wizards podcast episodes discussing Jorge Luis Borges",
+  "podcastLinks": {
+    "apple": "https://podcasts.apple.com/us/podcast/feed/id557975157?ls=1",
+    "spotify": "https://open.spotify.com/search/Very%20Bad%20Wizards/podcasts",
+    "website": "https://verybadwizards.com"
+  },
+  "episodes": [
+    {
+      "number": 313,
+      "title": "The Spontaneous Eruption of Now",
+      "date": "2025-07-29",
+      "duration": "01:15:30",
+      "borgesWork": "A New Refutation of Time",
+      "description": "David and Tamler try to wrap their heads around the metaphysics of past and future via the Borges essay(s) 'A New Refutation of Time.' What does it mean to be a time skeptic or a time realist for that matter?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-313-the-spontaneous-eruption-of-now",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/episode-313-the-spontaneous-eruption-of-now/id557975157?i=1000719676053&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_313_The_Spontaneous_Eruption_of_Now.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 313 – The Spontaneous Eruption of Now/A New Refutation of Time.pdf"
+    },
+    {
+      "number": 308,
+      "title": "The Gray Man who Dreamed (Borges' \"Shakespeare's Memory\")",
+      "date": "2025-05-06",
+      "duration": "01:14:50",
+      "borgesWork": "Shakespeare's Memory, Everything and Nothing",
+      "description": "David and Tamler return to their happy place and talk about two pieces by JL Borges – the story 'Shakespeare's Memory' and the essay/story/poem/literary sketch 'Everything and Nothing.'",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-308-the-gray-man-who-dreamed-borges-shakespeares-memory",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/episode-308-the-gray-man-who-dreamed-borges/id557975157?i=1000706587781&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_308_Borges_Shakespeares_Memory.mp3?dest-id=4022211",
+      "readingUrls": [
+        {
+          "label": "Shakespeare's Memory",
+          "url": "/readings/Episode 308 – The Gray Man who Dreamed/Shakespeare's Memory.pdf"
+        },
+        {
+          "label": "Everything and Nothing",
+          "url": "/readings/Episode 308 – The Gray Man who Dreamed/Everything and Nothing.pdf"
+        }
+      ]
+    },
+    {
+      "number": 293,
+      "title": "Who Is the Dreamer? (Borges' \"The Circular Ruins\")",
+      "date": "2024-09-24",
+      "duration": "01:25:33",
+      "borgesWork": "The Circular Ruins",
+      "description": "David and Tamler crawl up a riverbank, kiss the mud, and dream a discussion of Borges' 'The Circular Ruins.' We sort through various interpretations and allusions, the story as a metaphor for artistic creation, gnostic cosmology, solipsism, eternal recursion.",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-293-who-is-the-dreamer-borges-the-circular-ruins",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/episode-293-who-is-the-dreamer-borges-the-circular-ruins/id557975157?i=1000670554787&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_293_Who_is_the_Dreamer_Borges_The_Circular_Ruins.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 293 – Who Is the Dreamer?/The Circular Ruins.pdf"
+    },
+    {
+      "number": 282,
+      "title": "Fearful Symmetry (Borges' \"Death and the Compass\")",
+      "date": "2024-04-16",
+      "duration": "01:25:12",
+      "borgesWork": "Death and the Compass",
+      "description": "A Rabbi is found dead in a hotel room, stabbed in the chest. The room is filled with Kabbalah texts and a single page in an typewriter that reads 'The first letter of the name has been written.' The celebrated detective and 'reasoning machine' Erik Lönnrot investigates.",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-282-fearful-symmetry-borges-death-and-the-compass",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/episode-282-fearful-symmetry-borges-death-and-the-compass/id557975157?i=1000652649804&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_282_Death_and_the_Compass.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 282 – Fearful Symmetry/Death and the Compass.pdf"
+    },
+    {
+      "number": 275,
+      "title": "The Ineffable Center (Borges' \"The Aleph\")",
+      "date": "2023-12-26",
+      "duration": "01:34:16",
+      "borgesWork": "The Aleph",
+      "description": "An episode interesting from every point of view, we train our eyes on Jorge Luis Borges' 'The Aleph.' The first segment wins the kudos of the learned, the academician, the Hellenist, as we talk about the favorite things we saw this year.",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-275-the-ineffable-center-borges-the-aleph",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/episode-275-the-ineffable-center-borges-the-aleph/id557975157?i=1000639755079&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_275_The_Ineffable_Center_Borges_The_Aleph.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 275 – The Ineffable Center/The Aleph.pdf"
+    },
+    {
+      "number": 251,
+      "title": "First Order, Then Chaos",
+      "date": "2022-12-20",
+      "duration": "01:34:09",
+      "borgesWork": "The Immortal",
+      "description": "David and Tamler wind their way through another Borges story - 'The Immortal' - about a Roman soldier who seeks the secret of immortality and, much to his horror, finds it. Plus some thoughts on the utterly shameless ChatGPT.",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-251-first-order-then-chaos",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/first-order-then-chaos/id557975157?i=1000590796430&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/054bfbc1-df11-4886-a744-af5e3bb0637b.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 251 – First Order, Then Chaos/The Immortal.pdf"
+    },
+    {
+      "number": 244,
+      "title": "Thanks for the Memories? (Borges' \"Funes the Memorious\")",
+      "date": "2022-09-06",
+      "duration": "01:51:10",
+      "borgesWork": "Funes the Memorious",
+      "description": "David and Tamler return to Borges land to get lost in the infinite, this time with his legendary and tragic character Funes the memorious. What would it be like to have perfect memory, to have full access to every perceived detail no matter how trivial?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-244-thanks-for-the-memories-borges-funes-the-memorious",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/thanks-for-the-memories-borges-funes-the-memorious/id557975157?i=1000578598577&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/56c0ad69-2545-4162-b8e3-047658cf33fc.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 244 – Thanks for the Memories?/Funes the Memorious.pdf"
+    },
+    {
+      "number": 219,
+      "title": "Multiplied by Mirrors",
+      "date": "2021-08-17",
+      "duration": "01:45:10",
+      "borgesWork": "Emma Zunz, Borges and I",
+      "description": "It's a Borges bonanza! David and Tamler dive into two stories: 'Emma Zunz' and 'Borges and I.' The first seems like a straightforward daughter revenge story (Tamler's favorite genre), but Borges being Borges there are layers of doubt and fuzziness.",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-219-multiplied-by-mirrors",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/multiplied-by-mirrors/id557975157?i=1000532311784&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/22b97dac-6c61-4869-a418-426294e24511.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 219 – Multipled by Mirrrors/Emma Zunz.pdf"
+    },
+    {
+      "number": 192,
+      "title": "Postmodern Wet Dreams (Borges' \"Pierre Menard, Author of the Quixote\")",
+      "date": "2020-07-07",
+      "duration": "01:36:54",
+      "borgesWork": "Pierre Menard, Author of the Quixote",
+      "description": "David and Tamler dive into 'Pierre Menard, Author of the Quixote,' a very funny Borges story that also raises deep questions about authorship, reading, and interpretation. What would it mean for the same text to be written by two different authors more than three centuries apart?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-192-postmodern-wet-dreams-borges-pierre-menard-author-of-the-quixote",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/postmodern-wet-dreams-borges-pierre-menard-author-of/id557975157?i=1000483508743&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/9984ac3f-0bc5-4b1f-b6bf-0bf5e000d831.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 192 – Postmodern Wet Dreams/Pierre Menard, Author of Quixote.pdf"
+    },
+    {
+      "number": 178,
+      "title": "Borges' Obsession-Obsession (\"The Zahir\")",
+      "date": "2019-12-10",
+      "duration": "01:40:55",
+      "borgesWork": "The Zahir",
+      "description": "David and Tamler happen across Jorge Luis Borges' 'The Zahir' and now they can't stop thinking about it. What is the 'Zahir' – this object that can take many forms and that consumes the people who find it? What does it represent?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-178-borges-obsession-obsession-the-zahir",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/borges-obsession-obsession-the-zahir/id557975157?i=1000459268596&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/13d5159c-944e-4450-a309-24fcfb358ea0.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 178 – Borges’ Obsession-Obsession/The Zahir.pdf"
+    },
+    {
+      "number": 145,
+      "title": "Lost in Borges' Garden",
+      "date": "2018-08-07",
+      "duration": "01:37:03",
+      "borgesWork": "The Garden of Forking Paths",
+      "description": "David and Tamler go deep into Borges' labyrinth to discuss the fascinating, multi-dimensional story 'The Garden of Forking Paths.' What is the underlying reality of this story? What demands does Borges make of his readers?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-145-lost-in-borges-garden",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/lost-in-borges-garden/id557975157?i=1000417386953&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/916621f3-5f6b-4b84-b06a-825f7238445a.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 145 – Lost in Borges’ Garden/Garden of Forking Paths.pdf"
+    },
+    {
+      "number": 144,
+      "title": "Borges' Babylon",
+      "date": "2018-07-24",
+      "duration": "01:23:57",
+      "borgesWork": "The Library of Babel",
+      "description": "David and Tamler try to wrap their heads around Jorge Luis Borges' 'The Library of Babel' – a short story about a universe/library that contains every possible book with every possible combination of characters. How many books would this library contain?",
+      "episodeUrl": "https://verybadwizards.com/episode/episode-144-borges-babylon",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/borges-babylon/id557975157?i=1000416533039&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/54fe6bc9-ff77-4ea1-9ed6-808955ebd9ea.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 144 – Borges’ Babylon/The Library of Babel.pdf"
+    },
+    {
+      "number": 154,
+      "title": "Metaphysical Vertigo",
+      "date": "2018-12-18",
+      "duration": "01:56:54",
+      "borgesWork": "Tlön, Uqbar, Orbis Tertius",
+      "description": "David and Tamler journey to Tlön, a fictional planet whose reality is entirely constructed by its inhabitants. A mind-bending exploration of idealism, language, and reality itself.",
+      "episodeUrl": "https://verybadwizards.com/154",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/metaphysical-vertigo-borgess-tl%C3%B6n-uqbar-orbis-tertius/id557975157?i=1000426067646&uo=4",
+      "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/episode-154-metaphysical-vertigo.mp3?dest-id=4022211",
+      "readingUrl": "/readings/Episode 154 – Metaphysical Vertigo/Tlön Uqbar Orbius Tertius.pdf"
+    }
+  ]
+}

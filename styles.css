@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    line-height: 1.6;
+    color: #e0e0e0;
+    background: linear-gradient(135deg, rgba(13, 15, 23, 0.82) 0%, rgba(13, 15, 23, 0.78) 50%, rgba(13, 15, 23, 0.74) 100%), url('main.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 2rem 0;
+    border-bottom: 2px solid rgb(247, 232, 175);
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: rgb(247, 232, 175);
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 16px rgba(0, 0, 0, 0.35);
+}
+
+.subtitle {
+    color: #b0b0b0;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    text-shadow: 0 1px 10px rgba(0, 0, 0, 0.28);
+}
+
+.reading-jump {
+    max-width: 420px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.reading-jump label {
+    display: block;
+    color: rgb(247, 232, 175);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+}
+
+.reading-jump select {
+    width: 100%;
+    padding: 0.85rem 1rem;
+    border-radius: 8px;
+    border: 1px solid rgb(247, 232, 175);
+    background: rgba(13, 15, 23, 0.95);
+    color: #f2f2f2;
+    font-size: 1rem;
+}
+
+.episodes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.episode-card {
+    background: rgba(13, 15, 23, 0.82);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border-left: 4px solid rgb(247, 232, 175);
+    transition: background 0.3s;
+    backdrop-filter: blur(3px);
+}
+
+.episode-card:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.episode-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.episode-number {
+    background: rgb(247, 232, 175);
+    color: #1a1a2e;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.episode-date {
+    color: #a0a0a0;
+    font-size: 0.9rem;
+}
+
+.episode-duration {
+    color: #a0a0a0;
+    font-size: 0.9rem;
+}
+
+.episode-title {
+    font-size: 1.4rem;
+    color: rgb(247, 232, 175);
+    margin-bottom: 0.5rem;
+}
+
+.episode-title a {
+    color: rgb(247, 232, 175);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.episode-title a:visited {
+    color: rgb(247, 232, 175);
+}
+
+.episode-title a:hover {
+    color: #fff;
+}
+
+.episode-description {
+    color: #c0c0c0;
+    margin-bottom: 1rem;
+    line-height: 1.7;
+}
+
+.episode-reading,
+.episode-platforms {
+    margin-bottom: 1rem;
+}
+
+.section-label {
+    color: rgb(247, 232, 175);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+}
+
+.episode-reading-links,
+.episode-platform-links {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.episode-reading-links {
+    flex-direction: row;
+    align-items: center;
+}
+
+.reading-link,
+.reading-link:link,
+.reading-link:visited,
+.reading-link:active {
+    background: rgb(247, 232, 175);
+    color: #171717;
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.7rem 1rem;
+    border-radius: 8px;
+    border: 1px solid rgb(247, 232, 175);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.reading-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(247, 232, 175, 0.3);
+}
+
+.no-reading {
+    color: #8d8d8d;
+}
+
+.episode-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.episode-actions a {
+    color: rgb(247, 232, 175);
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border: 1px solid rgb(247, 232, 175);
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+.episode-actions a:hover {
+    background: rgb(247, 232, 175);
+    color: #1a1a2e;
+}
+
+.episode-actions a:visited {
+    color: rgb(247, 232, 175);
+}
+
+.episode-platform-links a,
+.episode-platform-links a:link,
+.episode-platform-links a:visited,
+.episode-platform-links a:active {
+    color: #171717 !important;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid rgba(247, 232, 175, 0.65);
+    border-radius: 999px;
+    background: rgba(247, 232, 175, 0.92);
+}
+
+.episode-platform-links a:hover {
+    color: #171717 !important;
+    background: rgb(247, 232, 175);
+    border-color: rgb(247, 232, 175);
+}
+
+footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: #666;
+}
+
+footer a {
+    color: rgb(247, 232, 175);
+}
+
+footer a:visited {
+    color: rgb(247, 232, 175);
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .episode-header {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+}
