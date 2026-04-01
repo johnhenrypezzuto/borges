@@ -8,7 +8,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
     line-height: 1.6;
     color: #e0e0e0;
-    background: linear-gradient(135deg, rgba(13, 15, 23, 0.82) 0%, rgba(13, 15, 23, 0.78) 50%, rgba(13, 15, 23, 0.74) 100%), url('main.png');
+    background: linear-gradient(135deg, rgba(13, 15, 23, 0.82) 0%, rgba(13, 15, 23, 0.78) 50%, rgba(13, 15, 23, 0.74) 100%), url('main.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
