@@ -140,9 +140,14 @@ function parseEpisodeDate(dateString) {
 }
 
 function encodePathUrl(url) {
+    if (/^https?:\/\//.test(url)) {
+        return url;
+    }
+
     return url
+        .replace(/^\//, '')
         .split('/')
-        .map((segment, index) => (index === 0 ? segment : encodeURIComponent(segment)))
+        .map(segment => encodeURIComponent(segment))
         .join('/');
 }
 
